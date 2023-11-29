@@ -17,9 +17,10 @@ content_blocks:
     image_alt: Reports dashboard
     button:
       text: Try This Free
+      url: /signup
       link: /signup
 pagination:
-  size: 9
+  size: 3
 seo:
   page_description: >-
     We believe that a good email marketing strategy is the key to growth. So
